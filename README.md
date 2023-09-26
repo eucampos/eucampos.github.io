@@ -1,6 +1,7 @@
 # eucampos.github.io
 Work for CTI 110
 Eder Ulises Campos Reyes
+eucampos@my.waketech.edu
 
 # My GitHub account 
 @ eucampos
